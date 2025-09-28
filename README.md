@@ -1,4 +1,3 @@
-
 # U-Farm
 U-Farm is app based platform, which is used to farmers with experts. Here Farmers can communicate with experts by just posting the picture of the disease affected plants. TTS and STT technologies are used.
 
@@ -33,8 +32,11 @@ U-Farm is app based platform, which is used to farmers with experts. Here Farmer
     <td><img src="https://github.com/user-attachments/assets/9916a23b-7a24-477c-b0d0-3dc884ac0fbf" width="300" height="750"></td>
   </tr>
     <tr>
-    <td><img src="https://github.com/user-attachments/assets/ade91be9-1fbf-4b7c-99a1-2cc6c097f948" width="300" height="750"></td>
-      <td><img src="https://github.com/user-attachments/assets/28db2080-8cce-4aa2-8ad1-7332c66ca918" width="300" height="750"></td>
-      
+    <td><img src="https://github.com/user-attachments/assets/dcfa552e-ec94-48da-95f6-933bd5a231d3" width="300" height="750"></td>
+    <td><img src="https://github.com/user-attachments/assets/fa009956-6d8f-47bc-911b-4c9c3b8b0885" width="300" height="750"></td>
+   </tr>
+      <tr>
+    <td><img src="https://github.com/user-attachments/assets/6927ff33-b4e0-4f35-b471-978bb8086161" width="300" height="750"></td>
+
    </tr>
 </table>
