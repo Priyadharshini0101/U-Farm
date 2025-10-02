@@ -2,13 +2,11 @@
 U-Farm is app based platform, which is used to farmers with experts. Here Farmers can communicate with experts by just posting the picture of the disease affected plants. TTS and STT technologies are used.
 
 
-<table> 
+<table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/dcfa552e-ec94-48da-95f6-933bd5a231d3" width="300" height="750"></td>
-    <td><img src="https://github.com/user-attachments/assets/fa009956-6d8f-47bc-911b-4c9c3b8b0885" width="300" height="750"></td>
-   </tr>
-
-  
+    <td><img src="https://github.com/user-attachments/assets/818b868d-c432-4831-ae1c-f9483b848fc9" width="300" height="750"></td>
+    <td><img src="https://github.com/user-attachments/assets/9916a23b-7a24-477c-b0d0-3dc884ac0fbf" width="300" height="750"></td>
+  </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/fa7c7de9-f646-49fa-9e6f-1a48fc97bd87" width="300" height="750"></td>
     <td><img src="https://github.com/user-attachments/assets/fd219ddd-e8b9-405d-8ac2-fd26ea027ccb" width="300" height="750"></td>
@@ -33,12 +31,13 @@ U-Farm is app based platform, which is used to farmers with experts. Here Farmer
     <td><img src="https://github.com/user-attachments/assets/695f44ed-452d-4bbb-b562-666b97f0234e" width="300" height="750"></td>
     <td><img src="https://github.com/user-attachments/assets/2c7354e5-38fb-4c60-9c28-1829d7abc755" width="300" height="750"></td>
   </tr>
-    <tr>
-    <td><img src="https://github.com/user-attachments/assets/818b868d-c432-4831-ae1c-f9483b848fc9" width="300" height="750"></td>
-    <td><img src="https://github.com/user-attachments/assets/9916a23b-7a24-477c-b0d0-3dc884ac0fbf" width="300" height="750"></td>
-  </tr>
-   
-      <tr>
+     <tr>
+    <td><img src="https://github.com/user-attachments/assets/dcfa552e-ec94-48da-95f6-933bd5a231d3" width="300" height="750"></td>
+    <td><img src="https://github.com/user-attachments/assets/fa009956-6d8f-47bc-911b-4c9c3b8b0885" width="300" height="750"></td>
+   </tr>
+
+  
+  <tr>
     <td><img src="https://github.com/user-attachments/assets/6927ff33-b4e0-4f35-b471-978bb8086161" width="300" height="750"></td>
 
    </tr>
