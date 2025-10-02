@@ -31,8 +31,7 @@ U-Farm is app based platform, which is used to farmers with experts. Here Farmer
     <td><img src="https://github.com/user-attachments/assets/a642aab4-d15c-4fb1-9e61-0837833044d8" width="300" height="750"></td>
     <td><img src="https://github.com/user-attachments/assets/2518f08e-cef7-4210-9196-9d865f91be6c" width="300" height="750"></td>
   </tr>
-  
-     <tr>
+  <tr>
     <td><img src="https://github.com/user-attachments/assets/fa009956-6d8f-47bc-911b-4c9c3b8b0885" width="300" height="750"></td>
     <td><img src="https://github.com/user-attachments/assets/6927ff33-b4e0-4f35-b471-978bb8086161" width="300" height="750"></td>
    </tr>
